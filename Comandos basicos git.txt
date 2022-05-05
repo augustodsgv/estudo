@@ -1,0 +1,38 @@
+Comandos git:
+
+_____Inicializando o repositório_____
+->Inicializando a pasta:
+git init
+
+->Recebendo o repositório:
+git remote add origin <url do github>
+
+
+_____Pull request_____
+->fazendo o pull
+git pull origin <branch>
+
+
+_____Verificando status do repositorio_____
+->status do repositorio
+git status
+
+
+_____Fazendo um push_____
+->adicionando arquivos da pasta ao repositório:
+git add .
+
+->fazendo o commit:
+git commit -m "mensagem"
+
+->fazendo o push:
+git push origin <branch>
+
+
+_____Branches_____
+->vendo branches disponíveis:
+git branch -a
+
+->mudando de branch:
+git checkout -b <nova branch>
+
