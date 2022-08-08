@@ -1,0 +1,1 @@
+texto para ser escrito no arquivo\f
