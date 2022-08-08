@@ -296,7 +296,8 @@ deletaTabela(table * tabela)
 
 //#define PALAVRA_TAM 15
 
-int main()
+int
+main()
 {
     /* Declarações locais */
     int N, M;                   //N : numero de palavras, M : numero de textos
